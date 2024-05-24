@@ -1,0 +1,423 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SENAI3EM\\Documents\\Projects\\CalculadoraLorenzo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F49ACE5-5BCC-491B-A4C1-78C86CF73B41}|CalculadoraLorenzo\\CalculadoraLorenzo.csproj|c:\\users\\senai3em\\documents\\projects\\calculadoralorenzo\\calculadoralorenzo\\pages\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F49ACE5-5BCC-491B-A4C1-78C86CF73B41}|CalculadoraLorenzo\\CalculadoraLorenzo.csproj|solutionrelative:calculadoralorenzo\\pages\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F49ACE5-5BCC-491B-A4C1-78C86CF73B41}|CalculadoraLorenzo\\CalculadoraLorenzo.csproj|c:\\users\\senai3em\\documents\\projects\\calculadoralorenzo\\calculadoralorenzo\\pages\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2F49ACE5-5BCC-491B-A4C1-78C86CF73B41}|CalculadoraLorenzo\\CalculadoraLorenzo.csproj|solutionrelative:calculadoralorenzo\\pages\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F49ACE5-5BCC-491B-A4C1-78C86CF73B41}|CalculadoraLorenzo\\CalculadoraLorenzo.csproj|c:\\users\\senai3em\\documents\\projects\\calculadoralorenzo\\calculadoralorenzo\\pages\\aboutpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F49ACE5-5BCC-491B-A4C1-78C86CF73B41}|CalculadoraLorenzo\\CalculadoraLorenzo.csproj|solutionrelative:calculadoralorenzo\\pages\\aboutpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F49ACE5-5BCC-491B-A4C1-78C86CF73B41}|CalculadoraLorenzo\\CalculadoraLorenzo.csproj|c:\\users\\senai3em\\documents\\projects\\calculadoralorenzo\\calculadoralorenzo\\pages\\aboutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2F49ACE5-5BCC-491B-A4C1-78C86CF73B41}|CalculadoraLorenzo\\CalculadoraLorenzo.csproj|solutionrelative:calculadoralorenzo\\pages\\aboutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F49ACE5-5BCC-491B-A4C1-78C86CF73B41}|CalculadoraLorenzo\\CalculadoraLorenzo.csproj|c:\\users\\senai3em\\documents\\projects\\calculadoralorenzo\\calculadoralorenzo\\pages\\cadpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2F49ACE5-5BCC-491B-A4C1-78C86CF73B41}|CalculadoraLorenzo\\CalculadoraLorenzo.csproj|solutionrelative:calculadoralorenzo\\pages\\cadpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F49ACE5-5BCC-491B-A4C1-78C86CF73B41}|CalculadoraLorenzo\\CalculadoraLorenzo.csproj|c:\\users\\senai3em\\documents\\projects\\calculadoralorenzo\\calculadoralorenzo\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2F49ACE5-5BCC-491B-A4C1-78C86CF73B41}|CalculadoraLorenzo\\CalculadoraLorenzo.csproj|solutionrelative:calculadoralorenzo\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F49ACE5-5BCC-491B-A4C1-78C86CF73B41}|CalculadoraLorenzo\\CalculadoraLorenzo.csproj|c:\\users\\senai3em\\documents\\projects\\calculadoralorenzo\\calculadoralorenzo\\pages\\profilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2F49ACE5-5BCC-491B-A4C1-78C86CF73B41}|CalculadoraLorenzo\\CalculadoraLorenzo.csproj|solutionrelative:calculadoralorenzo\\pages\\profilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F49ACE5-5BCC-491B-A4C1-78C86CF73B41}|CalculadoraLorenzo\\CalculadoraLorenzo.csproj|c:\\users\\senai3em\\documents\\projects\\calculadoralorenzo\\calculadoralorenzo\\pages\\profilepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F49ACE5-5BCC-491B-A4C1-78C86CF73B41}|CalculadoraLorenzo\\CalculadoraLorenzo.csproj|solutionrelative:calculadoralorenzo\\pages\\profilepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F49ACE5-5BCC-491B-A4C1-78C86CF73B41}|CalculadoraLorenzo\\CalculadoraLorenzo.csproj|c:\\users\\senai3em\\documents\\projects\\calculadoralorenzo\\calculadoralorenzo\\pages\\cadpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F49ACE5-5BCC-491B-A4C1-78C86CF73B41}|CalculadoraLorenzo\\CalculadoraLorenzo.csproj|solutionrelative:calculadoralorenzo\\pages\\cadpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F49ACE5-5BCC-491B-A4C1-78C86CF73B41}|CalculadoraLorenzo\\CalculadoraLorenzo.csproj|c:\\users\\senai3em\\documents\\projects\\calculadoralorenzo\\calculadoralorenzo\\pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F49ACE5-5BCC-491B-A4C1-78C86CF73B41}|CalculadoraLorenzo\\CalculadoraLorenzo.csproj|solutionrelative:calculadoralorenzo\\pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F49ACE5-5BCC-491B-A4C1-78C86CF73B41}|CalculadoraLorenzo\\CalculadoraLorenzo.csproj|c:\\users\\senai3em\\documents\\projects\\calculadoralorenzo\\calculadoralorenzo\\resources\\images\\raiozeus.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2F49ACE5-5BCC-491B-A4C1-78C86CF73B41}|CalculadoraLorenzo\\CalculadoraLorenzo.csproj|solutionrelative:calculadoralorenzo\\resources\\images\\raiozeus.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F49ACE5-5BCC-491B-A4C1-78C86CF73B41}|CalculadoraLorenzo\\CalculadoraLorenzo.csproj|c:\\users\\senai3em\\documents\\projects\\calculadoralorenzo\\calculadoralorenzo\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F49ACE5-5BCC-491B-A4C1-78C86CF73B41}|CalculadoraLorenzo\\CalculadoraLorenzo.csproj|solutionrelative:calculadoralorenzo\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F49ACE5-5BCC-491B-A4C1-78C86CF73B41}|CalculadoraLorenzo\\CalculadoraLorenzo.csproj|c:\\users\\senai3em\\documents\\projects\\calculadoralorenzo\\calculadoralorenzo\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2F49ACE5-5BCC-491B-A4C1-78C86CF73B41}|CalculadoraLorenzo\\CalculadoraLorenzo.csproj|solutionrelative:calculadoralorenzo\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F49ACE5-5BCC-491B-A4C1-78C86CF73B41}|CalculadoraLorenzo\\CalculadoraLorenzo.csproj|c:\\users\\senai3em\\documents\\projects\\calculadoralorenzo\\calculadoralorenzo\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F49ACE5-5BCC-491B-A4C1-78C86CF73B41}|CalculadoraLorenzo\\CalculadoraLorenzo.csproj|solutionrelative:calculadoralorenzo\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F49ACE5-5BCC-491B-A4C1-78C86CF73B41}|CalculadoraLorenzo\\CalculadoraLorenzo.csproj|c:\\users\\senai3em\\documents\\projects\\calculadoralorenzo\\calculadoralorenzo\\calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F49ACE5-5BCC-491B-A4C1-78C86CF73B41}|CalculadoraLorenzo\\CalculadoraLorenzo.csproj|solutionrelative:calculadoralorenzo\\calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F49ACE5-5BCC-491B-A4C1-78C86CF73B41}|CalculadoraLorenzo\\CalculadoraLorenzo.csproj|c:\\users\\senai3em\\documents\\projects\\calculadoralorenzo\\calculadoralorenzo\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F49ACE5-5BCC-491B-A4C1-78C86CF73B41}|CalculadoraLorenzo\\CalculadoraLorenzo.csproj|solutionrelative:calculadoralorenzo\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F49ACE5-5BCC-491B-A4C1-78C86CF73B41}|CalculadoraLorenzo\\CalculadoraLorenzo.csproj|c:\\users\\senai3em\\documents\\projects\\calculadoralorenzo\\calculadoralorenzo\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F49ACE5-5BCC-491B-A4C1-78C86CF73B41}|CalculadoraLorenzo\\CalculadoraLorenzo.csproj|solutionrelative:calculadoralorenzo\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F49ACE5-5BCC-491B-A4C1-78C86CF73B41}|CalculadoraLorenzo\\CalculadoraLorenzo.csproj|c:\\users\\senai3em\\documents\\projects\\calculadoralorenzo\\calculadoralorenzo\\models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F49ACE5-5BCC-491B-A4C1-78C86CF73B41}|CalculadoraLorenzo\\CalculadoraLorenzo.csproj|solutionrelative:calculadoralorenzo\\models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F49ACE5-5BCC-491B-A4C1-78C86CF73B41}|CalculadoraLorenzo\\CalculadoraLorenzo.csproj|c:\\users\\senai3em\\documents\\projects\\calculadoralorenzo\\calculadoralorenzo\\data\\sqlitedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F49ACE5-5BCC-491B-A4C1-78C86CF73B41}|CalculadoraLorenzo\\CalculadoraLorenzo.csproj|solutionrelative:calculadoralorenzo\\data\\sqlitedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F49ACE5-5BCC-491B-A4C1-78C86CF73B41}|CalculadoraLorenzo\\CalculadoraLorenzo.csproj|c:\\users\\senai3em\\documents\\projects\\calculadoralorenzo\\calculadoralorenzo\\data\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F49ACE5-5BCC-491B-A4C1-78C86CF73B41}|CalculadoraLorenzo\\CalculadoraLorenzo.csproj|solutionrelative:calculadoralorenzo\\data\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F49ACE5-5BCC-491B-A4C1-78C86CF73B41}|CalculadoraLorenzo\\CalculadoraLorenzo.csproj|c:\\users\\senai3em\\documents\\projects\\calculadoralorenzo\\calculadoralorenzo\\data\\isqlitedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F49ACE5-5BCC-491B-A4C1-78C86CF73B41}|CalculadoraLorenzo\\CalculadoraLorenzo.csproj|solutionrelative:calculadoralorenzo\\data\\isqlitedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F49ACE5-5BCC-491B-A4C1-78C86CF73B41}|CalculadoraLorenzo\\CalculadoraLorenzo.csproj|c:\\users\\senai3em\\documents\\projects\\calculadoralorenzo\\calculadoralorenzo\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2F49ACE5-5BCC-491B-A4C1-78C86CF73B41}|CalculadoraLorenzo\\CalculadoraLorenzo.csproj|solutionrelative:calculadoralorenzo\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F49ACE5-5BCC-491B-A4C1-78C86CF73B41}|CalculadoraLorenzo\\CalculadoraLorenzo.csproj|c:\\users\\senai3em\\documents\\projects\\calculadoralorenzo\\calculadoralorenzo\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2F49ACE5-5BCC-491B-A4C1-78C86CF73B41}|CalculadoraLorenzo\\CalculadoraLorenzo.csproj|solutionrelative:calculadoralorenzo\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AboutPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Documents\\Projects\\CalculadoraLorenzo\\CalculadoraLorenzo\\Pages\\AboutPage.xaml.cs",
+              "RelativeDocumentMoniker": "CalculadoraLorenzo\\Pages\\AboutPage.xaml.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Documents\\Projects\\CalculadoraLorenzo\\CalculadoraLorenzo\\Pages\\AboutPage.xaml.cs",
+              "RelativeToolTip": "CalculadoraLorenzo\\Pages\\AboutPage.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T14:44:42.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AboutPage.xaml",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Documents\\Projects\\CalculadoraLorenzo\\CalculadoraLorenzo\\Pages\\AboutPage.xaml",
+              "RelativeDocumentMoniker": "CalculadoraLorenzo\\Pages\\AboutPage.xaml",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Documents\\Projects\\CalculadoraLorenzo\\CalculadoraLorenzo\\Pages\\AboutPage.xaml",
+              "RelativeToolTip": "CalculadoraLorenzo\\Pages\\AboutPage.xaml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwCQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-23T14:18:18.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProfilePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Documents\\Projects\\CalculadoraLorenzo\\CalculadoraLorenzo\\Pages\\ProfilePage.xaml.cs",
+              "RelativeDocumentMoniker": "CalculadoraLorenzo\\Pages\\ProfilePage.xaml.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Documents\\Projects\\CalculadoraLorenzo\\CalculadoraLorenzo\\Pages\\ProfilePage.xaml.cs",
+              "RelativeToolTip": "CalculadoraLorenzo\\Pages\\ProfilePage.xaml.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwB8AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T14:19:33.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CadPage.xaml",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Documents\\Projects\\CalculadoraLorenzo\\CalculadoraLorenzo\\Pages\\CadPage.xaml",
+              "RelativeDocumentMoniker": "CalculadoraLorenzo\\Pages\\CadPage.xaml",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Documents\\Projects\\CalculadoraLorenzo\\CalculadoraLorenzo\\Pages\\CadPage.xaml",
+              "RelativeToolTip": "CalculadoraLorenzo\\Pages\\CadPage.xaml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACIAAACAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-23T10:50:23.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Documents\\Projects\\CalculadoraLorenzo\\CalculadoraLorenzo\\Pages\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "CalculadoraLorenzo\\Pages\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Documents\\Projects\\CalculadoraLorenzo\\CalculadoraLorenzo\\Pages\\LoginPage.xaml",
+              "RelativeToolTip": "CalculadoraLorenzo\\Pages\\LoginPage.xaml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-23T10:50:12.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Documents\\Projects\\CalculadoraLorenzo\\CalculadoraLorenzo\\Pages\\HomePage.xaml",
+              "RelativeDocumentMoniker": "CalculadoraLorenzo\\Pages\\HomePage.xaml",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Documents\\Projects\\CalculadoraLorenzo\\CalculadoraLorenzo\\Pages\\HomePage.xaml",
+              "RelativeToolTip": "CalculadoraLorenzo\\Pages\\HomePage.xaml",
+              "ViewState": "AQIAAP8AAAAAAAAAAAAowCEBAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-23T10:59:57.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Documents\\Projects\\CalculadoraLorenzo\\CalculadoraLorenzo\\Pages\\HomePage.xaml.cs",
+              "RelativeDocumentMoniker": "CalculadoraLorenzo\\Pages\\HomePage.xaml.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Documents\\Projects\\CalculadoraLorenzo\\CalculadoraLorenzo\\Pages\\HomePage.xaml.cs",
+              "RelativeToolTip": "CalculadoraLorenzo\\Pages\\HomePage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T11:00:00.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProfilePage.xaml",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Documents\\Projects\\CalculadoraLorenzo\\CalculadoraLorenzo\\Pages\\ProfilePage.xaml",
+              "RelativeDocumentMoniker": "CalculadoraLorenzo\\Pages\\ProfilePage.xaml",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Documents\\Projects\\CalculadoraLorenzo\\CalculadoraLorenzo\\Pages\\ProfilePage.xaml",
+              "RelativeToolTip": "CalculadoraLorenzo\\Pages\\ProfilePage.xaml",
+              "ViewState": "AQIAABwAAAAAAAAAAAAkwCsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-23T14:18:47.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CadPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Documents\\Projects\\CalculadoraLorenzo\\CalculadoraLorenzo\\Pages\\CadPage.xaml.cs",
+              "RelativeDocumentMoniker": "CalculadoraLorenzo\\Pages\\CadPage.xaml.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Documents\\Projects\\CalculadoraLorenzo\\CalculadoraLorenzo\\Pages\\CadPage.xaml.cs",
+              "RelativeToolTip": "CalculadoraLorenzo\\Pages\\CadPage.xaml.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T11:10:19.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Documents\\Projects\\CalculadoraLorenzo\\CalculadoraLorenzo\\Pages\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "CalculadoraLorenzo\\Pages\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Documents\\Projects\\CalculadoraLorenzo\\CalculadoraLorenzo\\Pages\\LoginPage.xaml.cs",
+              "RelativeToolTip": "CalculadoraLorenzo\\Pages\\LoginPage.xaml.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:58:50.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "raiozeus.svg",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Documents\\Projects\\CalculadoraLorenzo\\CalculadoraLorenzo\\Resources\\Images\\raiozeus.svg",
+              "RelativeDocumentMoniker": "CalculadoraLorenzo\\Resources\\Images\\raiozeus.svg",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Documents\\Projects\\CalculadoraLorenzo\\CalculadoraLorenzo\\Resources\\Images\\raiozeus.svg",
+              "RelativeToolTip": "CalculadoraLorenzo\\Resources\\Images\\raiozeus.svg",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQKSURBVDhPrVRbTCNVGP5OOzO9TKEWSrGUttpdpV2ua7ioaDa7ullcdVe8rHFNjPFBY4hGY0wIJprw5ItmCdEXL/FRE4MQsw9LiCthIcFFxA3hFiEsLQUKpaW03XZmOuOZaQsY9W2/5J/zz3/55j///OfgrkJRFFJQD9DX13elrq7uXVWnfk2KugpZlpHJZJBKpYa6u7u7gsFgWHP8HyjhHE2Sc7ncf4okSfLMzIw8NTUl9/f3/xgIBGoKqRr0hfUAHR0dXW1tbXaZFiQJccjpWyDJbyBsfQ9x46oW81dIRHNLG0wmk4/juOr19fVbUQrV9w9CrvVl4m9s7VpIG\u002BxL6\u002BMolb6EaesrSOFhgNRAVtyQIhMIbgPeB1ths9kYs9l8vKyszD0/P39jnyJPSAj4hy7YPE\u002B/\u002BUmJ0/NkS4DlzlRegXXzGmZWmvBT4j0sGy6jvvE85O05JEUeN6ZXMT09jUQioafEgdHR0R/i8XiYUfmMdees3ovvfPhEc/VbL9Qvm5vljxBdTGM81YMl33MICiZMLG8iJa7iRUct/I3HUA0HBEGAxWLB7OysVpcKnfpwdLzd3haoePVS7WRpS/oDsjeTwTrpRbqiE2wK4EUJnvuqcHM7h7HY/SAlHtjt5XA6nbBardDr9QdToBF6nZbOZ/1z5Q3i52RnSoS54TvUP9yJSyedeKXBjuTGNmycAYQ3YSrKYiejpVFQkiOjpULb8omK\u002BOOPWL81JVeM\u002BEL8GKFfWYjSn/Qn0GDQucsxKGd0YDkWK9tZxPYFVJUaVS7a/8MZVcFUORnu9YZr1ezaMrmu\u002B1ThW84Sn0IrKATlSRWIdwTaMxFZSYKk2jS36skTFkmZ0ILnYmzlZ8Nk8g1lzn0u99vEor6p0kwUeiLUIJVQTSR0MF202ka3BQ4Lp9nydHnCIhglEX5p67Yrez13GmJKYXgTq2v32clJFw\u002BrkUEiI2JyNYa1WFrNhNtmhoXaDzkOyVQwmVCmPZYy/DK\u002ByZzwMHFvpc9FhjfSGF7agkK3yHAMcpZyxHJm7EZ28ZSOgKVShFb/kQp10h4xne/JXg5v7ny2OLcSvb2xrwh8CeicgBx/AFmXFxF6h0QiUfiMEp6pqwSnL/7lf0Pf8xocp\u002B6N\u002BW6OL4x5nayYjIv\u002BRFLmQ5E9RHfiuBPdBbu/h9p7GLx/\u002BhjKeNo/erK02mhlhOpra2sYHBz8mp6asJ7O62R4E2cC3NYpV2Rs1lndaD776GN\u002BB5tDjZVBaxWPC7UOPN9UBSOrTVl\u002Bn4VdE52OEgYxNDSkEeatR9Db2zumXl\u002BiKBZEkEUhL/SoFSR7sKoxIyMjstvtblHzC588BG3w7wMDA\u002B0FXRP1Ui02vmgrigpa2R902dVe7i6AvwHcTSP/8z9AyQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-05-23T14:27:21.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserData.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Documents\\Projects\\CalculadoraLorenzo\\CalculadoraLorenzo\\Data\\UserData.cs",
+              "RelativeDocumentMoniker": "CalculadoraLorenzo\\Data\\UserData.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Documents\\Projects\\CalculadoraLorenzo\\CalculadoraLorenzo\\Data\\UserData.cs",
+              "RelativeToolTip": "CalculadoraLorenzo\\Data\\UserData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:52:36.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Documents\\Projects\\CalculadoraLorenzo\\CalculadoraLorenzo\\Constants.cs",
+              "RelativeDocumentMoniker": "CalculadoraLorenzo\\Constants.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Documents\\Projects\\CalculadoraLorenzo\\CalculadoraLorenzo\\Constants.cs",
+              "RelativeToolTip": "CalculadoraLorenzo\\Constants.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAYwBkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:53:38.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Documents\\Projects\\CalculadoraLorenzo\\CalculadoraLorenzo\\App.xaml.cs",
+              "RelativeDocumentMoniker": "CalculadoraLorenzo\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Documents\\Projects\\CalculadoraLorenzo\\CalculadoraLorenzo\\App.xaml.cs",
+              "RelativeToolTip": "CalculadoraLorenzo\\App.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:54:29.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Calculate.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Documents\\Projects\\CalculadoraLorenzo\\CalculadoraLorenzo\\Calculate.cs",
+              "RelativeDocumentMoniker": "CalculadoraLorenzo\\Calculate.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Documents\\Projects\\CalculadoraLorenzo\\CalculadoraLorenzo\\Calculate.cs",
+              "RelativeToolTip": "CalculadoraLorenzo\\Calculate.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA9wCEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:54:32.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Documents\\Projects\\CalculadoraLorenzo\\CalculadoraLorenzo\\MainPage.xaml",
+              "RelativeDocumentMoniker": "CalculadoraLorenzo\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Documents\\Projects\\CalculadoraLorenzo\\CalculadoraLorenzo\\MainPage.xaml",
+              "RelativeToolTip": "CalculadoraLorenzo\\MainPage.xaml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-23T13:29:05.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Documents\\Projects\\CalculadoraLorenzo\\CalculadoraLorenzo\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "CalculadoraLorenzo\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Documents\\Projects\\CalculadoraLorenzo\\CalculadoraLorenzo\\MainPage.xaml.cs",
+              "RelativeToolTip": "CalculadoraLorenzo\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T13:29:09.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Documents\\Projects\\CalculadoraLorenzo\\CalculadoraLorenzo\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "CalculadoraLorenzo\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Documents\\Projects\\CalculadoraLorenzo\\CalculadoraLorenzo\\MauiProgram.cs",
+              "RelativeToolTip": "CalculadoraLorenzo\\MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:57:31.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SQLiteData.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Documents\\Projects\\CalculadoraLorenzo\\CalculadoraLorenzo\\Data\\SQLiteData.cs",
+              "RelativeDocumentMoniker": "CalculadoraLorenzo\\Data\\SQLiteData.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Documents\\Projects\\CalculadoraLorenzo\\CalculadoraLorenzo\\Data\\SQLiteData.cs",
+              "RelativeToolTip": "CalculadoraLorenzo\\Data\\SQLiteData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:52:20.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ISQLiteDB.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Documents\\Projects\\CalculadoraLorenzo\\CalculadoraLorenzo\\Data\\ISQLiteDB.cs",
+              "RelativeDocumentMoniker": "CalculadoraLorenzo\\Data\\ISQLiteDB.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Documents\\Projects\\CalculadoraLorenzo\\CalculadoraLorenzo\\Data\\ISQLiteDB.cs",
+              "RelativeToolTip": "CalculadoraLorenzo\\Data\\ISQLiteDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:51:46.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Documents\\Projects\\CalculadoraLorenzo\\CalculadoraLorenzo\\App.xaml",
+              "RelativeDocumentMoniker": "CalculadoraLorenzo\\App.xaml",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Documents\\Projects\\CalculadoraLorenzo\\CalculadoraLorenzo\\App.xaml",
+              "RelativeToolTip": "CalculadoraLorenzo\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-23T10:54:14.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UsuarioModel.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Documents\\Projects\\CalculadoraLorenzo\\CalculadoraLorenzo\\Models\\UsuarioModel.cs",
+              "RelativeDocumentMoniker": "CalculadoraLorenzo\\Models\\UsuarioModel.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Documents\\Projects\\CalculadoraLorenzo\\CalculadoraLorenzo\\Models\\UsuarioModel.cs",
+              "RelativeToolTip": "CalculadoraLorenzo\\Models\\UsuarioModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:50:58.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Documents\\Projects\\CalculadoraLorenzo\\CalculadoraLorenzo\\AppShell.xaml",
+              "RelativeDocumentMoniker": "CalculadoraLorenzo\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Documents\\Projects\\CalculadoraLorenzo\\CalculadoraLorenzo\\AppShell.xaml",
+              "RelativeToolTip": "CalculadoraLorenzo\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-23T10:54:12.832Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

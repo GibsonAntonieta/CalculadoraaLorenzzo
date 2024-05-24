@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CalculadoraLorenzo.Pages.HomePage"
+             NavigationPage.HasNavigationBar="False">
+    <VerticalStackLayout>
+        
+        <Grid
+        Padding="5,0"
+        ColumnSpacing="1"
+        RowSpacing="1">
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="2*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+
+
+            <Label
+            x:Name="result"
+            Grid.Row="0"
+            Grid.ColumnSpan="4"
+            Padding="30"
+            BackgroundColor="White"
+            FontAttributes="Bold"
+            FontSize="48"
+            HorizontalTextAlignment="End"
+            LineBreakMode="NoWrap"
+            Text="0"
+            TextColor="Black"
+            VerticalTextAlignment="Center" />
+
+            <Button
+            Grid.Row="1"
+            Grid.ColumnSpan="2"
+            Margin="10,10,10,0"
+            BackgroundColor="#D9D9D9"
+            Clicked="OnClear"
+            CornerRadius="10"
+            FontSize="36"
+            Text="C" />
+
+            <Button
+            Grid.Row="1"
+            Grid.ColumnSpan="2"
+            Margin="10,10,10,0"
+            BackgroundColor="#D9D9D9"
+            Clicked="OnClear"
+            CornerRadius="10"
+            FontSize="36"
+            Text="C"
+            TextColor="Black" 
+            FontAttributes="Bold"/>
+
+            <Button
+            Grid.Row="1"
+            Grid.Column="2"
+            BackgroundColor="LightGrey"
+            Clicked="OnSquareRoot"
+            Margin="10,10,10,0"
+            CornerRadius="10"
+            FontSize="36"
+            Text="X2"
+            TextColor="Black" 
+            FontAttributes="Bold"/>
+
+            <Button
+            Grid.Row="2"
+            Grid.Column="0"
+            BackgroundColor="#D9D9D9"
+            Margin="0,10,0,0"
+            Clicked="OnNumberSelection"
+            CornerRadius="10"
+            WidthRequest="80"
+            TextColor="Black"
+            FontSize="36"
+            Text="7" 
+            FontAttributes="Bold"/>
+            
+            <Button
+            Grid.Row="2"
+            Grid.Column="1"
+            BackgroundColor="#D9D9D9"
+            Margin="0,10,0,0"
+            Clicked="OnNumberSelection"
+            CornerRadius="10"
+            WidthRequest="80"
+            TextColor="Black"
+            FontSize="36"
+            Text="8" 
+            FontAttributes="Bold"/>
+            
+            <Button
+            Grid.Row="2"
+            Grid.Column="2"
+            BackgroundColor="#D9D9D9"
+            Margin="0,10,0,0"
+            Clicked="OnNumberSelection"
+            CornerRadius="10"
+            WidthRequest="80"
+            TextColor="Black"
+            FontSize="36"
+            Text="9"
+            FontAttributes="Bold"/>
+
+            <Button
+            Grid.Row="3"
+            Grid.Column="0"
+            BackgroundColor="#D9D9D9"
+            Margin="0,10,0,0"
+            Clicked="OnNumberSelection"
+            CornerRadius="10"
+            WidthRequest="80"
+            TextColor="Black"
+            FontSize="36"
+            Text="4"
+            FontAttributes="Bold"/>
+
+            <Button
+            Grid.Row="3"
+            Grid.Column="1"
+            BackgroundColor="#D9D9D9"
+            Margin="0,10,0,0"
+            Clicked="OnNumberSelection"
+            CornerRadius="10"
+            WidthRequest="80"
+            TextColor="Black"
+            FontSize="36"
+            Text="5"
+            FontAttributes="Bold"/>
+            
+            <Button
+            Grid.Row="3"
+            Grid.Column="2"
+            BackgroundColor="#D9D9D9"
+            Margin="0,10,0,0"
+            Clicked="OnNumberSelection"
+            CornerRadius="10"
+            WidthRequest="80"
+            TextColor="Black"
+            FontSize="36"
+            Text="6"
+            FontAttributes="Bold"/>
+
+
+            <Button
+            Grid.Row="4"
+            Grid.Column="0"
+            BackgroundColor="#D9D9D9"
+            Margin="0,10,0,0"
+            Clicked="OnNumberSelection"
+            CornerRadius="10"
+            WidthRequest="80"
+            TextColor="Black"
+            FontSize="36"
+            Text="1"
+            FontAttributes="Bold"/>
+            
+            
+            
+            <Button
+            Grid.Row="4"
+            Grid.Column="1"
+            BackgroundColor="#D9D9D9"
+            Margin="0,10,0,0"
+            Clicked="OnNumberSelection"
+            CornerRadius="10"
+            WidthRequest="80"
+            TextColor="Black"
+            FontSize="36"
+            Text="2"
+            FontAttributes="Bold"/>
+
+            <Button
+            Grid.Row="4"
+            Grid.Column="2"
+            BackgroundColor="#D9D9D9"
+            Margin="0,10,0,0"
+            Clicked="OnNumberSelection"
+            CornerRadius="10"
+            WidthRequest="80"
+            TextColor="Black"
+            FontSize="36"
+            Text="3"
+            FontAttributes="Bold"/>
+
+            <Button
+            Grid.Row="5"
+            Grid.ColumnSpan="0"
+            Margin="10,10,10,0"
+            BackgroundColor="#D9D9D9"
+            Clicked="OnNumberSelection"
+            CornerRadius="10"
+            FontSize="36"
+            Text="0" />
+
+            <Button
+            Grid.Row="5"
+            Grid.ColumnSpan="0"
+            Margin="10,10,10,0"
+            BackgroundColor="#D9D9D9"
+            Clicked="OnNumberSelection"
+            CornerRadius="10"
+            FontSize="36"
+            Text="0"
+            TextColor="Black" 
+            FontAttributes="Bold"/>
+
+            
+            <Button
+            Grid.Row="1"
+            Grid.Column="3"
+            BackgroundColor="#8C52FF"
+            Margin="0,10,0,0"
+            Clicked="onOperatorSelection"
+            CornerRadius="10"
+            WidthRequest="80"
+            TextColor="Black"
+            FontSize="36"
+            Text="/"
+            FontAttributes="Bold"/>
+            
+            <Button
+            Grid.Row="2"
+            Grid.Column="3"
+            BackgroundColor="#8C52FF"
+            Margin="0,10,0,0"
+            Clicked="onOperatorSelection"
+            CornerRadius="10"
+            WidthRequest="80"
+            TextColor="Black"
+            FontSize="36"
+            Text="*"
+            FontAttributes="Bold"/>
+            
+            <Button
+            Grid.Row="3"
+            Grid.Column="3"
+            BackgroundColor="#8C52FF"
+            Margin="0,10,0,0"
+            Clicked="onOperatorSelection"
+            CornerRadius="10"
+            WidthRequest="80"
+            TextColor="Black"
+            FontSize="36"
+            Text="-"
+            FontAttributes="Bold"/>
+            
+            <Button
+            Grid.Row="4"
+            Grid.Column="3"
+            BackgroundColor="#8C52FF"
+            Margin="0,10,0,0"
+            Clicked="onOperatorSelection"
+            CornerRadius="10"
+            WidthRequest="80"
+            TextColor="Black"
+            FontSize="36"
+            Text="+"
+            FontAttributes="Bold"/>
+            
+            <Button
+            Grid.Row="5"
+            Grid.Column="3"
+            BackgroundColor="#FF8F27"
+            Margin="0,10,0,0"
+            Clicked="onCalculate"
+            CornerRadius="10"
+            WidthRequest="80"
+            TextColor="Black"
+            FontSize="36"
+            Text="="
+            FontAttributes="Bold"/>
+        </Grid>
+        <FlexLayout Direction="Row" JustifyContent="SpaceAround" HorizontalOptions="EndAndExpand" Margin="0,70,0,0">
+
+            <Button ImageSource="about"
+            BackgroundColor="#FFF"
+            WidthRequest="70"
+            HeightRequest="70"
+            x:Name="btnPesquisa"
+            Clicked="btnAbout_Clicked"/>
+
+            <Button ImageSource="calculadora"
+            BackgroundColor="#FFF"
+            WidthRequest="90"
+            HeightRequest="70"
+            x:Name="btnCart"
+            Clicked="btnCal_Clicked"/>
+
+            <Button ImageSource="profile"
+            BackgroundColor="#FFF"
+            WidthRequest="90"
+            HeightRequest="90"
+                    Margin="0,0,0,14"
+            x:Name="btnPerson"
+            Clicked="btnPerson_Clicked"/>
+        </FlexLayout>
+    </VerticalStackLayout>
+</ContentPage>

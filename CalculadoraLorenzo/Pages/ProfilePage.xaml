@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CalculadoraLorenzo.Pages.ProfilePage"
+             NavigationPage.HasNavigationBar="False">
+    <VerticalStackLayout>
+
+        <Grid RowDefinitions="*,*" ColumnDefinitions="*">
+
+            <StackLayout Grid.Row="0" BackgroundColor="#8C52FF" HeightRequest="250">
+                <Image Source="profile" HeightRequest="200" WidthRequest="200" VerticalOptions="Center" HorizontalOptions="Center"/>
+            </StackLayout>
+
+            <StackLayout Grid.Row="1" BackgroundColor="White">
+                <Label Text="Suas Informações" HorizontalOptions="Center" TextColor="#000000" FontSize="Title" FontAttributes="Bold" Margin="0,20,0,20"/>
+
+                <Label VerticalOptions="Start" Margin="30,0,0,20">
+                    <Label.FormattedText>
+                        <FormattedString>
+                            <Span Text="Nome: " TextColor="Black" FontSize="21" />
+                            <Span x:Name="txtName" Text="" TextColor="Black" FontSize="21" />
+                        </FormattedString>
+                    </Label.FormattedText>
+                </Label>
+
+                <Label VerticalOptions="Start" Margin="30,0,0,20">
+                    <Label.FormattedText>
+                        <FormattedString>
+                            <Span Text="Email: " TextColor="Black" FontSize="21" />
+                            <Span x:Name="txtEmail" Text="" TextColor="Black" FontSize="21" />
+                        </FormattedString>
+                    </Label.FormattedText>
+                </Label>
+
+            </StackLayout>
+        </Grid>
+        <Label Text="Você Já usou nossa incrivel calculadora" HorizontalOptions="Center" Margin="0,10,0,10"/>
+        <Border Margin="10,0,10,10" BackgroundColor="#FF8F27" WidthRequest="200" HeightRequest="50" >
+            <Border.StrokeShape>
+                <RoundRectangle CornerRadius="20" />
+            </Border.StrokeShape>
+            <Label 
+            x:Name="Contador" TextColor="Black" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" FontSize="29" FontAttributes="Bold"/>
+        </Border>
+        <Label Text="vezes" TextColor="Black" FontSize="24" HorizontalOptions="Center" Margin="0,10,0,10"/>
+
+        <FlexLayout Direction="Row" JustifyContent="SpaceAround" HorizontalOptions="EndAndExpand" Margin="0,30,0,0">
+
+            <Button ImageSource="about"
+     BackgroundColor="#FFF"
+     WidthRequest="70"
+     HeightRequest="70"
+     x:Name="btnPesquisa"
+     Clicked="btnAbout_Clicked"/>
+
+            <Button ImageSource="calculadora"
+     BackgroundColor="#FFF"
+     WidthRequest="90"
+     HeightRequest="70"
+     x:Name="btnCart"
+     Clicked="btnCal_Clicked"/>
+
+            <Button ImageSource="profile"
+     BackgroundColor="#FFF"
+     WidthRequest="90"
+     HeightRequest="90"
+                    Margin="0,0,0,13"
+     x:Name="btnPerson"
+     Clicked="btnPerson_Clicked"/>
+        </FlexLayout>
+    </VerticalStackLayout>
+</ContentPage>

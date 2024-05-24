@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CalculadoraLorenzo.Pages.CadPage"
+             NavigationPage.HasNavigationBar="False">
+    <VerticalStackLayout>
+        <Grid RowDefinitions="*,*" ColumnDefinitions="*">
+
+            <StackLayout Grid.Row="0" BackgroundColor="#8C52FF" HeightRequest="200">
+                <Image HeightRequest="150" WidthRequest="150" Source="maisconta"  Margin="19"/>
+            </StackLayout>
+
+            <StackLayout Grid.Row="1" BackgroundColor="White">
+
+                <Label Text="Criar conta" HorizontalOptions="Center" TextColor="#000000" FontSize="Title" FontAttributes="Bold" Margin="0,20,0,30"/>
+
+                <Border Margin="10,0,10,10" BackgroundColor="#D9D9D9">
+                    <Border.StrokeShape>
+                        <RoundRectangle CornerRadius="20" />
+                    </Border.StrokeShape>
+                    <Entry x:Name="txtEmail" Text="{Binding Email}" Placeholder="E-mail" PlaceholderColor="Black" TextColor="Black" Keyboard="Email" Margin="10,0,0,0"/>
+                </Border>
+
+                <Border Margin="10,0,10,10" BackgroundColor="#D9D9D9">
+                    <Border.StrokeShape>
+                        <RoundRectangle CornerRadius="20" />
+                    </Border.StrokeShape>
+                    <Entry x:Name="txtName" Text="{Binding Name}" PlaceholderColor="Black" TextColor="Black"  Placeholder="Usuario" Margin="10,0,0,0"/>
+                </Border>
+
+                <Border Margin="10,0,10,30" BackgroundColor="#D9D9D9">
+                    <Border.StrokeShape>
+                        <RoundRectangle CornerRadius="20" />
+                    </Border.StrokeShape>
+                    <Entry x:Name="txtSenha" Text="{Binding Password}" PlaceholderColor="Black" TextColor="Black" Placeholder="Senha" IsPassword="True" Margin="10,0,0,0"/>
+                </Border>
+
+                <Button x:Name="btnCad" Text="entrar" CornerRadius="30" TextColor="Black" FontAttributes="Bold" Margin="10,0,10,0" BackgroundColor="#8C52FF" Clicked="btnCad_Clicked"/>
+
+                <Label HorizontalOptions="Center" Margin="0,20,0,0">
+                    <Label.FormattedText>
+                        <FormattedString>
+                            <Span Text="Ja tem uma conta? Clique " TextColor="Black" FontSize="16" />
+                            <Span Text="aqui" TextDecorations="Underline" TextColor="#7064F8" FontSize="16">
+                                <Span.GestureRecognizers>
+                                    <TapGestureRecognizer Tapped="LabelClicada"/>
+                                </Span.GestureRecognizers>
+                            </Span>
+                        </FormattedString>
+                    </Label.FormattedText>
+                </Label>
+
+            </StackLayout>
+        </Grid>
+       
+    </VerticalStackLayout>
+</ContentPage>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CalculadoraLorenzo.Pages.AboutPage"
+             NavigationPage.HasNavigationBar="False">
+    <VerticalStackLayout>
+        <Grid RowDefinitions="*,*" ColumnDefinitions="*">
+
+            <StackLayout Grid.Row="0" BackgroundColor="#8C52FF" HeightRequest="300">
+                <Image Source="profile" HeightRequest="200" WidthRequest="200" VerticalOptions="Center" HorizontalOptions="Center"/>
+                
+                <Border Margin="10,0,10,0" BackgroundColor="#FFF" WidthRequest="200" HeightRequest="50" >
+                    <Border.StrokeShape>
+                        <RoundRectangle CornerRadius="20" />
+                    </Border.StrokeShape>
+                    <Label Text="Lorenzo" TextColor="Black" FontAttributes="Bold" WidthRequest="300" HeightRequest="40" VerticalTextAlignment="Center"  HorizontalTextAlignment="Center"/>
+                </Border>
+            </StackLayout>
+
+            <StackLayout Grid.Row="1" BackgroundColor="White">
+
+                <Border Margin="10,30,10,0" >
+                    <Border.Stroke>
+                        <SolidColorBrush Color="Transparent"/>
+                    </Border.Stroke>
+                    <Border.StrokeShape>
+                        <RoundRectangle CornerRadius="20" />
+                    </Border.StrokeShape>
+                    <Label Text="Responsavel pelo design e programação do app" TextColor="#000000" FontSize="Title" VerticalTextAlignment="Center" HorizontalTextAlignment="Center"  />
+                </Border>
+            </StackLayout>
+        </Grid>
+
+        <FlexLayout Direction="Row" JustifyContent="SpaceAround" HorizontalOptions="EndAndExpand" Margin="0,200,0,0">
+
+            <Button ImageSource="about"
+BackgroundColor="#FFF"
+WidthRequest="70"
+HeightRequest="70"
+x:Name="btnPesquisa"
+Clicked="btnAbout_Clicked"/>
+
+            <Button ImageSource="calculadora"
+BackgroundColor="#FFF"
+WidthRequest="90"
+HeightRequest="70"
+x:Name="btnCart"
+Clicked="btnCal_Clicked"/>
+
+            <Button ImageSource="profile"
+BackgroundColor="#FFF"
+WidthRequest="90"
+HeightRequest="90"
+               Margin="0,0,0,13"
+x:Name="btnPerson"
+Clicked="btnPerson_Clicked"/>
+        </FlexLayout>
+    </VerticalStackLayout>
+</ContentPage>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CalculadoraLorenzo.Pages.LoginPage"
+             NavigationPage.HasNavigationBar="False">
+
+ 
+    
+    <VerticalStackLayout>
+        <Grid RowDefinitions="*,*" ColumnDefinitions="*">
+
+            <StackLayout Grid.Row="0" BackgroundColor="#8C52FF" HeightRequest="200">
+                <Image HeightRequest="150" WidthRequest="150" Source="raiozeus"  Margin="19"/>
+            </StackLayout>
+
+            <StackLayout Grid.Row="1" BackgroundColor="White">
+
+                <Label Text="Bem-Vindo" HorizontalOptions="Center" TextColor="#000000" FontSize="Title" FontAttributes="Bold" Margin="0,20,0,0"/>
+                <Label Text="A melhor calculadora"  HorizontalOptions="Center" TextColor="#B9B9B9"  FontSize="Subtitle" Margin="0,10,0,30" FontAttributes="Bold"/>
+
+                <Border Margin="10,0,10,10" BackgroundColor="#D9D9D9">
+                    <Border.StrokeShape>
+                        <RoundRectangle CornerRadius="20" />
+                    </Border.StrokeShape>
+                    <Entry x:Name="txtEmail" Placeholder="E-mail" PlaceholderColor="Black" TextColor="Black" Keyboard="Email" Margin="10,0,0,0"/>
+                </Border>
+
+                <Border Margin="10,0,10,30" BackgroundColor="#D9D9D9">
+                    <Border.StrokeShape>
+                        <RoundRectangle CornerRadius="20" />
+                    </Border.StrokeShape>
+                    <Entry x:Name="txtSenha"  Placeholder="Senha" PlaceholderColor="Black" TextColor="Black" IsPassword="True" Margin="10,0,0,0"/>
+                </Border>
+
+                <Button x:Name="btnEnter" Text="Acessar" CornerRadius="30" TextColor="Black" FontAttributes="Bold" Margin="10,0,10,0" BackgroundColor="#8C52FF" Clicked="btnEnter_Clicked"/>
+
+                <Label HorizontalOptions="Center" Margin="0,20,0,0">
+                    <Label.FormattedText>
+                        <FormattedString>
+                            <Span Text="Não tem conta? Clique " TextColor="Black" FontSize="16" />
+                            <Span Text="aqui" TextDecorations="Underline" TextColor="#7064F8" FontSize="16">
+                                <Span.GestureRecognizers>
+                                    <TapGestureRecognizer Tapped="LabelClicada"/>
+                                </Span.GestureRecognizers>
+                            </Span>
+                        </FormattedString>
+                    </Label.FormattedText>
+                </Label>
+
+            </StackLayout>
+        </Grid>
+
+    </VerticalStackLayout>
+</ContentPage>
